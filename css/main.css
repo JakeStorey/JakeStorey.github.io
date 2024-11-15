@@ -2,3 +2,9 @@
 {
   background-color: gray;
 }
+
+img
+{
+  display: block;
+  margin: auto;
+}
