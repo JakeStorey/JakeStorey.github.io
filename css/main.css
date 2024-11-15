@@ -8,3 +8,10 @@ img
   display: block;
   margin: auto;
 }
+
+h1
+{
+  border-left: 5px black;
+  font-family: "Verdana" , sans serif;
+  text-decoration: underline;
+}
