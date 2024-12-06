@@ -1,6 +1,7 @@
 :root
 {
   background-color: rgb(100,100,100);
+  --UNC-Blue: #013c65;
 }
 body
 {
@@ -19,6 +20,6 @@ h2
 }
 nav
 {
-  border: 10px;
+  border: 10px(----UNC-Blue)solid;
 }
 
