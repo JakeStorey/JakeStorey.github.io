@@ -13,7 +13,7 @@ body
 nav
 {
   border: 10px inset gold;
-  margin: 15vw;
+  margin: 10vw;
 }
 
 h1
@@ -32,7 +32,8 @@ section
 {
   border: 8px inset;
   border-color: var(--UNC-Blue);
-  margin: 20vw;
+  margin: 15vw;
+  margin-top: 20px;
 }
 
 ul
