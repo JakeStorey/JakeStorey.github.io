@@ -12,6 +12,7 @@ body
 nav
 {
   border: 10px inset gold;
+  margin: 5px;
 }
 
 h1
