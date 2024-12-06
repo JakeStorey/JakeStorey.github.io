@@ -1,26 +1,47 @@
 :root
 {
-  background-color: rgb(100,100,100);
-  --UNC-Blue: #013c65;
+  background-color: rgb(50,50,50);
+  --Blue: #013c65;
 }
+
 body
 {
   text-align: center;
 }
+
+nav
+{
+  border: 10px inset gold;
+}
+
 h1
 {
-  border: 7px (--UNC-Blue)solid;
-  font-family: "Verdana" , sans serif;
   text-decoration: underline;
   font-size: 54px;
 }
+
 h2
 {
   text-decoration: underline;
   font-size: 24px;
 }
-nav
+
+section
 {
-  border: 5px(--UNC-Blue)solid;
+  border: 8px dotted gold;
 }
+
+.date
+{
+  color: var(--Blue);
+}
+
+ul
+{
+  list-style: none;
+}
+  
+
+
+  
 
