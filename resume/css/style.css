@@ -1,13 +1,13 @@
 :root
 {
   background-color: rgb(100,100,100);
-  --Blue: #013c65;
+  --UNC-Blue: #013c65;
 }
 
 body
 {
   text-align: center;
-  color: var(--Blue);
+  color: var(--UNC-Blue);
 }
 
 nav
@@ -36,7 +36,7 @@ h2
 section
 {
   border: 8px inset;
-  border-color: var(--Blue);
+  border-color: var(--UNC-Blue);
   margin: 5vw;
 }
 
