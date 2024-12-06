@@ -9,6 +9,7 @@ body
 }
 h1
 {
+  border: 7px (--UNC-Blue)solid;
   font-family: "Verdana" , sans serif;
   text-decoration: underline;
   font-size: 54px;
@@ -20,6 +21,6 @@ h2
 }
 nav
 {
-  border: 10px(--UNC-Blue)solid;
+  border: 5px(--UNC-Blue)solid;
 }
 
