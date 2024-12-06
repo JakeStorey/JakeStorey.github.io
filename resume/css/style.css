@@ -28,6 +28,11 @@ h2
   font-size: 24px;
 }
 
+.date
+{
+  text-align: right;
+}
+
 section
 {
   border: 8px inset;
